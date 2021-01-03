@@ -1,2 +1,2 @@
-# opening image using dialog fixed
- Do you want to highlight some image between many others? Check that out!
+# Destacar Imagens
+ Exemplo bem simples de como destacar uma imagem dentro de uma galeria após o clique sobre a mesma.
